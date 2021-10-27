@@ -2,7 +2,7 @@
 
 Small web scraping engine implemented in Haskell using the Scalpel library: https://hackage.haskell.org/package/scalpel-0.6.2/docs/Text-HTML-Scalpel.html
 
-There source code can be found on: 
+The source code sits on: 
 
 app/Main.hs -> Where the action happens: 
 	1. Scraps the url https://news.ycombinator.com/ 
